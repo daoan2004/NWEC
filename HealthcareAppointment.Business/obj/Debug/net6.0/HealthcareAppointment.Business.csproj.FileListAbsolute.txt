@@ -1,0 +1,17 @@
+C:\Users\daoan\source\repos\NWEC\HealthcareAppointment.Business\bin\Debug\net6.0\HealthcareAppointment.Business.deps.json
+C:\Users\daoan\source\repos\NWEC\HealthcareAppointment.Business\bin\Debug\net6.0\HealthcareAppointment.Business.dll
+C:\Users\daoan\source\repos\NWEC\HealthcareAppointment.Business\bin\Debug\net6.0\HealthcareAppointment.Business.pdb
+C:\Users\daoan\source\repos\NWEC\HealthcareAppointment.Business\bin\Debug\net6.0\HealthcareAppointment.Data.dll
+C:\Users\daoan\source\repos\NWEC\HealthcareAppointment.Business\bin\Debug\net6.0\HealthcareAppointment.Models.dll
+C:\Users\daoan\source\repos\NWEC\HealthcareAppointment.Business\bin\Debug\net6.0\HealthcareAppointment.Data.pdb
+C:\Users\daoan\source\repos\NWEC\HealthcareAppointment.Business\bin\Debug\net6.0\HealthcareAppointment.Models.pdb
+C:\Users\daoan\source\repos\NWEC\HealthcareAppointment.Business\obj\Debug\net6.0\HealthcareAppointment.Business.csproj.AssemblyReference.cache
+C:\Users\daoan\source\repos\NWEC\HealthcareAppointment.Business\obj\Debug\net6.0\HealthcareAppointment.Business.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\daoan\source\repos\NWEC\HealthcareAppointment.Business\obj\Debug\net6.0\HealthcareAppointment.Business.AssemblyInfoInputs.cache
+C:\Users\daoan\source\repos\NWEC\HealthcareAppointment.Business\obj\Debug\net6.0\HealthcareAppointment.Business.AssemblyInfo.cs
+C:\Users\daoan\source\repos\NWEC\HealthcareAppointment.Business\obj\Debug\net6.0\HealthcareAppointment.Business.csproj.CoreCompileInputs.cache
+C:\Users\daoan\source\repos\NWEC\HealthcareAppointment.Business\obj\Debug\net6.0\Healthca.FEAE56E5.Up2Date
+C:\Users\daoan\source\repos\NWEC\HealthcareAppointment.Business\obj\Debug\net6.0\HealthcareAppointment.Business.dll
+C:\Users\daoan\source\repos\NWEC\HealthcareAppointment.Business\obj\Debug\net6.0\refint\HealthcareAppointment.Business.dll
+C:\Users\daoan\source\repos\NWEC\HealthcareAppointment.Business\obj\Debug\net6.0\HealthcareAppointment.Business.pdb
+C:\Users\daoan\source\repos\NWEC\HealthcareAppointment.Business\obj\Debug\net6.0\ref\HealthcareAppointment.Business.dll

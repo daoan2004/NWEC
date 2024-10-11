@@ -1,0 +1,12 @@
+C:\Users\daoan\source\repos\NWEC\HealthcareAppointment.Models\bin\Debug\net6.0\HealthcareAppointment.Models.deps.json
+C:\Users\daoan\source\repos\NWEC\HealthcareAppointment.Models\bin\Debug\net6.0\HealthcareAppointment.Models.dll
+C:\Users\daoan\source\repos\NWEC\HealthcareAppointment.Models\bin\Debug\net6.0\HealthcareAppointment.Models.pdb
+C:\Users\daoan\source\repos\NWEC\HealthcareAppointment.Models\obj\Debug\net6.0\HealthcareAppointment.Models.csproj.AssemblyReference.cache
+C:\Users\daoan\source\repos\NWEC\HealthcareAppointment.Models\obj\Debug\net6.0\HealthcareAppointment.Models.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\daoan\source\repos\NWEC\HealthcareAppointment.Models\obj\Debug\net6.0\HealthcareAppointment.Models.AssemblyInfoInputs.cache
+C:\Users\daoan\source\repos\NWEC\HealthcareAppointment.Models\obj\Debug\net6.0\HealthcareAppointment.Models.AssemblyInfo.cs
+C:\Users\daoan\source\repos\NWEC\HealthcareAppointment.Models\obj\Debug\net6.0\HealthcareAppointment.Models.csproj.CoreCompileInputs.cache
+C:\Users\daoan\source\repos\NWEC\HealthcareAppointment.Models\obj\Debug\net6.0\HealthcareAppointment.Models.dll
+C:\Users\daoan\source\repos\NWEC\HealthcareAppointment.Models\obj\Debug\net6.0\refint\HealthcareAppointment.Models.dll
+C:\Users\daoan\source\repos\NWEC\HealthcareAppointment.Models\obj\Debug\net6.0\HealthcareAppointment.Models.pdb
+C:\Users\daoan\source\repos\NWEC\HealthcareAppointment.Models\obj\Debug\net6.0\ref\HealthcareAppointment.Models.dll

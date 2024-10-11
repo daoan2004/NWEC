@@ -1,0 +1,153 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\daoan\\source\\repos\\NWEC\\HealthcareAppointment\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{8392CCAE-B4B6-472D-B6F6-817575087707}|HealthcareAppointment.WebAPI.csproj|c:\\users\\daoan\\source\\repos\\nwec\\healthcareappointment\\healthcareappointment.webapi.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{8392CCAE-B4B6-472D-B6F6-817575087707}|HealthcareAppointment.WebAPI.csproj|solutionrelative:healthcareappointment.webapi.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8392CCAE-B4B6-472D-B6F6-817575087707}|HealthcareAppointment.WebAPI.csproj|c:\\users\\daoan\\source\\repos\\nwec\\healthcareappointment\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8392CCAE-B4B6-472D-B6F6-817575087707}|HealthcareAppointment.WebAPI.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8392CCAE-B4B6-472D-B6F6-817575087707}|HealthcareAppointment.WebAPI.csproj|c:\\users\\daoan\\source\\repos\\nwec\\healthcareappointment\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{8392CCAE-B4B6-472D-B6F6-817575087707}|HealthcareAppointment.WebAPI.csproj|solutionrelative:appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{28827615-94FB-473C-81B7-EB9FE0C47B97}|..\\HealthcareAppointment.Data\\HealthcareAppointment.Data.csproj|c:\\users\\daoan\\source\\repos\\nwec\\healthcareappointment.data\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AC09197D-6C1A-480D-BE12-5EF9867E0278}|..\\HealthcareAppointment.Business\\HealthcareAppointment.Business.csproj|c:\\users\\daoan\\source\\repos\\nwec\\healthcareappointment.business\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\daoan\\source\\repos\\NWEC\\HealthcareAppointment.Models\\Models\\HealthcareAppointmentContext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{28966F4C-0688-4840-9A61-3C05AB59B768}|..\\HealthcareAppointment.Models\\HealthcareAppointment.Models.csproj|c:\\users\\daoan\\source\\repos\\nwec\\healthcareappointment.models\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:129:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{75188d03-9892-4ae2-abf1-207126247ce5}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "HealthcareAppointment.WebAPI",
+              "DocumentMoniker": "C:\\Users\\daoan\\source\\repos\\NWEC\\HealthcareAppointment\\HealthcareAppointment.WebAPI.csproj",
+              "RelativeDocumentMoniker": "HealthcareAppointment.WebAPI.csproj",
+              "ToolTip": "C:\\Users\\daoan\\source\\repos\\NWEC\\HealthcareAppointment\\HealthcareAppointment.WebAPI.csproj",
+              "RelativeToolTip": "HealthcareAppointment.WebAPI.csproj",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-10-11T14:56:05.624Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\daoan\\source\\repos\\NWEC\\HealthcareAppointment\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\Users\\daoan\\source\\repos\\NWEC\\HealthcareAppointment\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AQIAAAEAAAAAAAAAAADwvx4AAAAVAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-11T14:56:23.514Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\daoan\\source\\repos\\NWEC\\HealthcareAppointment\\appsettings.json",
+              "RelativeDocumentMoniker": "appsettings.json",
+              "ToolTip": "C:\\Users\\daoan\\source\\repos\\NWEC\\HealthcareAppointment\\appsettings.json",
+              "RelativeToolTip": "appsettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-10-11T14:56:16.403Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Class1.cs",
+              "DocumentMoniker": "C:\\Users\\daoan\\source\\repos\\NWEC\\HealthcareAppointment.Data\\Class1.cs",
+              "RelativeDocumentMoniker": "..\\HealthcareAppointment.Data\\Class1.cs",
+              "ToolTip": "C:\\Users\\daoan\\source\\repos\\NWEC\\HealthcareAppointment.Data\\Class1.cs",
+              "RelativeToolTip": "..\\HealthcareAppointment.Data\\Class1.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-11T14:55:34.453Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Class1.cs",
+              "DocumentMoniker": "C:\\Users\\daoan\\source\\repos\\NWEC\\HealthcareAppointment.Business\\Class1.cs",
+              "RelativeDocumentMoniker": "..\\HealthcareAppointment.Business\\Class1.cs",
+              "ToolTip": "C:\\Users\\daoan\\source\\repos\\NWEC\\HealthcareAppointment.Business\\Class1.cs",
+              "RelativeToolTip": "..\\HealthcareAppointment.Business\\Class1.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-11T14:54:20.321Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "HealthcareAppointmentContext.cs",
+              "DocumentMoniker": "C:\\Users\\daoan\\source\\repos\\NWEC\\HealthcareAppointment.Models\\Models\\HealthcareAppointmentContext.cs",
+              "RelativeDocumentMoniker": "..\\HealthcareAppointment.Models\\Models\\HealthcareAppointmentContext.cs",
+              "ToolTip": "C:\\Users\\daoan\\source\\repos\\NWEC\\HealthcareAppointment.Models\\Models\\HealthcareAppointmentContext.cs",
+              "RelativeToolTip": "..\\HealthcareAppointment.Models\\Models\\HealthcareAppointmentContext.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-11T14:53:40.681Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Class1.cs",
+              "DocumentMoniker": "C:\\Users\\daoan\\source\\repos\\NWEC\\HealthcareAppointment.Models\\Class1.cs",
+              "RelativeDocumentMoniker": "..\\HealthcareAppointment.Models\\Class1.cs",
+              "ToolTip": "C:\\Users\\daoan\\source\\repos\\NWEC\\HealthcareAppointment.Models\\Class1.cs",
+              "RelativeToolTip": "..\\HealthcareAppointment.Models\\Class1.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-11T14:53:23.533Z",
+              "EditorCaption": ""
+            }
+          ]
+        },
+        {
+          "DockedWidth": 1858,
+          "SelectedChildIndex": -1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
